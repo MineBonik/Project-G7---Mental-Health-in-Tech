@@ -23,6 +23,4 @@ venv/
 Thumbs.db
 
 # Keep raw data, ignore anything generated
-data/processed/*
-!data/processed/.gitkeep
-*.zip
+data/processed/
