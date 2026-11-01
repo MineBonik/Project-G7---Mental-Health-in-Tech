@@ -40,3 +40,15 @@ _To be filled in as the project develops._
 ## How to reproduce
 
 _To be filled in as the project develops._
+
+## Licensing
+
+Code in this repository is released under the MIT Licence (see `LICENSE`).
+
+The survey data is **not** ours. It is published by Open Sourcing Mental Health
+(OSMI) under CC BY-SA 3.0 (2014 wave) and CC BY-SA 4.0 (2016 wave), and the
+2017–2021 compilation by Faran Rasheed Memon under CC BY 4.0
+(DOI 10.17632/mmnzx4w8cg.1).
+
+Any merged or derived dataset in `data/processed/` is distributed under
+**CC BY-SA 4.0**, as required by the ShareAlike terms of the source data.
