@@ -35,7 +35,10 @@ free-text questions removed.
 
 ## Repository contents
 
-_To be filled in as the project develops._
+- `data/raw/` — the three source survey files, unmodified. See `data/raw/README.md` for provenance.
+- `data/processed/` — merged and cleaned datasets produced by our notebooks (not tracked in git).
+- `notebooks/` — analysis notebooks.
+- `src/` — reusable code.
 
 ## How to reproduce
 
