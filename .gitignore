@@ -1,0 +1,4 @@
+# Keep raw data, ignore anything generated
+data/processed/*
+!data/processed/.gitkeep
+*.zip
