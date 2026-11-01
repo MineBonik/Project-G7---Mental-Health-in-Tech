@@ -7,8 +7,8 @@
 
 Mental health problems are common in the technology sector, but whether someone
 seeks treatment depends on more than symptoms alone — workplace culture, employer
-benefits and fear of career consequences all play a part. Using eight years of
-survey responses from Open Sourcing Mental Health (OSMI), we ask which workplace
+benefits and fear of career consequences all play a part. Using seven waves of survey responses 
+collected between 2014 and 2021 from Open Sourcing Mental Health (OSMI), we ask which workplace
 and demographic factors predict whether a tech worker seeks treatment, and how
 attitudes to disclosure have changed over time.
 
