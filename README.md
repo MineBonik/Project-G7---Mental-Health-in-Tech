@@ -30,7 +30,7 @@ free-text questions removed.
    compilation, and merge all seven surveys into a single unified dataset.
 2. Build and compare classification models predicting whether a respondent has
    sought treatment for a mental health condition.
-3. Analyse how attitudes shifted across 2014–2021.
+3. Analyse how attitudes shifted across 2014-2021 - willingness to discuss mental health with an employer, and perceived career consequences of disclosure.
 4. (If time allows) Compare employer-level factors against help-seeking.
 
 ## Repository contents
