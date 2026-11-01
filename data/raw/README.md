@@ -15,6 +15,11 @@ Downloaded 1 November 2026. Do not edit these files — all cleaning happens in
 | `2017-2021-raw.zip` | `data.csv` | 2017–2021 compiled | 1,242 | 11 | Mendeley (Memon 2023) | CC BY 4.0 |
 
 **Total raw responses across the seven waves: 4,528.**
-The 2017–2021 file is a third-party compilation (Memon 2023), pre-filtered to
-tech roles with free-text questions removed. The 2014 and 2016 files are raw
-OSMI releases.
+The `2017-2021-raw.zip` archive contains both the raw per-year survey exports
+(`Survey /2017.csv` … `Survey /2021.csv`, 82–124 columns each) and a compiled,
+tech-role-filtered extract (`data.csv`, 11 columns) produced by Memon (2023).
+We work from the raw exports; `data.csv` is kept for reference. The 2014 and
+2016 archives are raw OSMI releases.
+
+Note: the folder inside the 2017–2021 archive is named `Survey ` with a
+trailing space.
