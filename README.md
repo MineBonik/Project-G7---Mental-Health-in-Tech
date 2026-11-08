@@ -1,6 +1,6 @@
 # Mental Health in Tech — Project G7
 
-**Authors:** Chamini Dissanayake, Bohdan Fochuk
+**Authors:** Chamini Lakshika Wickramarathna Dissanayake, Bohdan Fochuk
 **Course:** Introduction to Data Science (LTAT.02.002), University of Tartu, autumn 2026
 
 ## Motivation and goal
