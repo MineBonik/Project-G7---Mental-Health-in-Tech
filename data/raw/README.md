@@ -1,7 +1,7 @@
 # Raw data
 
-Downloaded 1 November 2026. Do not edit these files — all cleaning happens in
-`notebooks/` and writes to `data/processed/`.
+Downloaded 1 November 2026. Do not change this files - originals are here(for reference), so all changes are in this folders:
+`notebooks/` and notebooks write to `data/processed/`.
 
 | File in repo | File inside archive | Wave | Rows | Cols | Source | Licence |
 |---|---|---|---|---|---|---|
