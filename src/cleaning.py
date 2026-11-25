@@ -12,9 +12,9 @@ In a notebook (notebooks/ is one level below src/):
 AGE_MIN, AGE_MAX = 14, 100
 
 # ---------------------------------------------------------------- Gender
-# Lower-cased and stripped before lookup. Anything not listed in MALE / FEMALE /
-# UNUSABLE becomes "other" (trans, non-binary, queer, ambiguous) - so for every new
-# wave, PRINT the raw values that land in "other" and extend these sets.
+# Lower-cased and stripped before lookup. For a new wave, first print the values that
+# are not in any set and decide where each one goes. In the 2016 notebook the OTHER set
+# is defined there, and a value that is not listed raises an error.
 MALE = {
     # 2014
     "male", "m", "make", "cis male", "man", "maile", "mal", "male (cis)",
@@ -31,6 +31,9 @@ FEMALE = {
     # 2016
     "i identify as female.", "female/woman", "cisgender female", "cis-woman",
     "fem", "female (props for making this a freeform field, though)",
+    "afab", "female assigned at birth",
+    # my choice: "afab" and "female assigned at birth" counted as female (2 answers). 2016 data
+    # This is an assumption; the answers don't state current gender identity.   
 }
 UNUSABLE = {  # no usable answer -> NaN
     "a little about you", "p",
